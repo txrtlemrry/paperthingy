@@ -814,7 +814,13 @@
           {
             "subunit_number": "1.1",
             "subunit_name": "Particles in the atom and atomic radius",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_1.1.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "1.2",
@@ -824,12 +830,24 @@
           {
             "subunit_number": "1.3",
             "subunit_name": "Electrons, energy levels and atomic orbitals",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_1.3.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "1.4",
             "subunit_name": "Ionisation energy",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_1.4.pdf",
+                "ms_link": ""
+              }
+            ]
           }
         ]
       },
@@ -850,12 +868,24 @@
           {
             "subunit_number": "2.3",
             "subunit_name": "Formulas",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_2.3.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "2.4",
             "subunit_name": "Reacting masses and volumes (solutions and gases)",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_2.4.pdf",
+                "ms_link": ""
+              }
+            ]
           }
         ]
       },
@@ -866,7 +896,13 @@
           {
             "subunit_number": "3.1",
             "subunit_name": "Electronegativity and bonding",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_3.1.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "3.2",
@@ -876,7 +912,13 @@
           {
             "subunit_number": "3.3",
             "subunit_name": "Metallic bonding",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_3.3.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "3.4",
@@ -886,12 +928,24 @@
           {
             "subunit_number": "3.5",
             "subunit_name": "Shapes of molecules",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_3.5.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "3.6",
             "subunit_name": "Intermolecular forces, electronegativity and bond properties",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_3.6.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "3.7",
@@ -907,12 +961,24 @@
           {
             "subunit_number": "4.1",
             "subunit_name": "The gaseous state: ideal and real gases and pV = nRT",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_4.1.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "4.2",
             "subunit_name": "Bonding and structure",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_4.2.pdf",
+                "ms_link": ""
+              }
+            ]
           }
         ]
       },
@@ -922,8 +988,14 @@
         "subunits": [
           {
             "subunit_number": "5.1",
-            "subunit_name": "Enthalpy change, \u00ce\u201dH",
-            "papers": []
+            "subunit_name": "Enthalpy change, dH",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_5.1.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "5.2",
@@ -939,7 +1011,13 @@
           {
             "subunit_number": "6.1",
             "subunit_name": "Redox processes: electron transfer and changes in oxidation number (oxidation state)",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_6.1.pdf",
+                "ms_link": ""
+              }
+            ]
           }
         ]
       },
@@ -950,12 +1028,24 @@
           {
             "subunit_number": "7.1",
             "subunit_name": "Chemical equilibria: reversible reactions, dynamic equilibrium",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_7.1.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "7.2",
-            "subunit_name": "Br\u00c3\u00b8nsted-Lowry theory of acids and bases",
-            "papers": []
+            "subunit_name": "Bronsted-Lowry theory of acids and bases",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_7.2.pdf",
+                "ms_link": ""
+              }
+            ]
           }
         ]
       },
@@ -966,17 +1056,35 @@
           {
             "subunit_number": "8.1",
             "subunit_name": "Rate of reaction",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_8.1.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "8.2",
             "subunit_name": "Effect of temperature on reaction rates and the concept of activation energy",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_8.2.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "8.3",
             "subunit_name": "Homogeneous and heterogeneous catalysts",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_8.3.pdf",
+                "ms_link": ""
+              }
+            ]
           }
         ]
       },
@@ -987,12 +1095,24 @@
           {
             "subunit_number": "9.1",
             "subunit_name": "Periodicity of physical properties of the elements in Period 3",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_9.1.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "9.2",
             "subunit_name": "Periodicity of chemical properties of the elements in Period 3",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_9.2.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "9.3",
@@ -1008,7 +1128,13 @@
           {
             "subunit_number": "10.1",
             "subunit_name": "Similarities and trends in the properties of the Group 2 metals, magnesium to barium, and their compounds",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_10.1.pdf",
+                "ms_link": ""
+              }
+            ]
           }
         ]
       },
@@ -1019,22 +1145,46 @@
           {
             "subunit_number": "11.1",
             "subunit_name": "Physical properties of the Group 17 elements",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_11.1.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "11.2",
             "subunit_name": "The chemical properties of the halogen elements and the hydrogen halides",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_11.2.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "11.3",
             "subunit_name": "Some reactions of the halide ions",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_11.3.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "11.4",
             "subunit_name": "The reactions of chlorine",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_11.4.pdf",
+                "ms_link": ""
+              }
+            ]
           }
         ]
       },
@@ -1045,7 +1195,13 @@
           {
             "subunit_number": "12.1",
             "subunit_name": "Nitrogen and sulfur",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_12.1.pdf",
+                "ms_link": ""
+              }
+            ]
           }
         ]
       },
@@ -1056,22 +1212,46 @@
           {
             "subunit_number": "13.1",
             "subunit_name": "Formulas, functional groups and the naming of organic compounds",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_13.1.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "13.2",
             "subunit_name": "Characteristic organic reactions",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_13.2.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "13.3",
-            "subunit_name": "Shapes of organic molecules; \u00cf\u0192 and \u00cf\u20ac bonds",
-            "papers": []
+            "subunit_name": "Shapes of organic molecules; sigma and pi bonds",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_13.3.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "13.4",
             "subunit_name": "Isomerism: structural isomerism and stereoisomerism",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_13.4.pdf",
+                "ms_link": ""
+              }
+            ]
           }
         ]
       },
@@ -1082,12 +1262,24 @@
           {
             "subunit_number": "14.1",
             "subunit_name": "Alkanes",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_14.1.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "14.2",
             "subunit_name": "Alkenes",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_14.2.pdf",
+                "ms_link": ""
+              }
+            ]
           }
         ]
       },
@@ -1098,7 +1290,13 @@
           {
             "subunit_number": "15.1",
             "subunit_name": "Halogenoalkanes",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_15.1.pdf",
+                "ms_link": ""
+              }
+            ]
           }
         ]
       },
@@ -1109,7 +1307,13 @@
           {
             "subunit_number": "16.1",
             "subunit_name": "Alcohols",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_16.1.pdf",
+                "ms_link": ""
+              }
+            ]
           }
         ]
       },
@@ -1120,7 +1324,13 @@
           {
             "subunit_number": "17.1",
             "subunit_name": "Aldehydes and ketones",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_17.1.pdf",
+                "ms_link": ""
+              }
+            ]
           }
         ]
       },
@@ -1131,12 +1341,24 @@
           {
             "subunit_number": "18.1",
             "subunit_name": "Carboxylic acids",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_18.1.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "18.2",
             "subunit_name": "Esters",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_18.2.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "18.3",
@@ -1152,7 +1374,13 @@
           {
             "subunit_number": "19.1",
             "subunit_name": "Primary amines",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_19.1.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "19.2",
@@ -1173,7 +1401,13 @@
           {
             "subunit_number": "20.2",
             "subunit_name": "Predicting the type of polymerisation",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_20.2.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "20.3",
@@ -1210,11 +1444,17 @@
           {
             "subunit_number": "22.3",
             "subunit_name": "Carbon-13 NMR spectroscopy",
-            "papers": []
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9701/9701_Paper_1_subunit_22.3.pdf",
+                "ms_link": ""
+              }
+            ]
           },
           {
             "subunit_number": "22.4",
-            "subunit_name": "Proton (\u00c2\u00b9H) NMR spectroscopy",
+            "subunit_name": "Proton (H) NMR spectroscopy",
             "papers": []
           }
         ]
