@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Past Paper Link Generator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+    <!-- CHANGE 1: Switched to a relative path for the CSS file -->
+    <link rel="stylesheet" href="static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- CHANGE 2: Navigation links now point to .html files -->
+        <div class="tab-nav">
+            <a href="index.html" class="tab-link {% if active_view == 'yearly' %}active{% endif %}">Yearly Papers</a>
+            <a href="topical.html" class="tab-link {% if active_view == 'topical' %}active{% endif %}">Topical Papers</a>
+        </div>
+
+        <!-- CONTENT: This Jinja logic will still work because the build script generates separate files -->
+        <div id="yearly-view" class="main-content-view" {% if active_view != 'yearly' %}style="display: none;"{% endif %}>
+            <header>
+                <h1>Past Paper Link Generator</h1>
+                <!-- Modified the description as forms are removed -->
+                <p>Browse past papers by year for each subject below.</p>
+            </header>
+
+            <!-- CHANGE 3: The dynamic forms for generating and adding subjects have been DELETED -->
+
+            {% if submitted and active_view == 'yearly' %}
+            <div id="results">
+                <h2>Generated Links</h2>
+                <div class="tab-container">
+                    <div class="tab-nav">
+                        {% for code, data in results.items() %}<button class="tab-link" onclick="openTab(event, '{{ code }}')">{{ data.name }}</button>{% endfor %}
+                    </div>
+                    {% for code, data in results.items() %}
+                    <div id="{{ code }}" class="tab-content">
+                        {% if data.links %}
+                            {% for year, sessions in data.links.items() %}
+                            <details class="year-group" open><summary>{{ year }}</summary>
+                                {% for session_name, session_data in sessions.items() %}
+                                <details class="session-group" open><summary class="session-{{ session_data.code }}"><span class="session-name">{{ session_name }}</span><div class="session-extras"><a href="{{ data.base_url }}{{ data.subject_code }}_{{ session_data.short_code }}_er.pdf" target="_blank" class="extra-link er-link">ER</a><a href="{{ data.base_url }}{{ data.subject_code }}_{{ session_data.short_code }}_gt.pdf" target="_blank" class="extra-link gt-link">GT</a></div></summary>
+                                    {% for paper_full_desc, types in session_data.papers.items() %}
+                                    <div class="paper-group">
+                                        <h4>{{ paper_full_desc }}</h4>
+                                        <div class="links-container">
+                                            <!-- The links here work correctly as the build script generates the full relative path -->
+                                            <div class="link-column"><strong>Question Papers</strong>{% for link in types.qp %}<a href="{{ link }}" target="_blank">{{ link.split('/')[-1] }}</a>{% else %}<span class="no-links">N/A</span>{% endfor %}</div>
+                                            <div class="link-column"><strong>Mark Schemes</strong>{% for link in types.ms %}<a href="{{ link }}" target="_blank">{{ link.split('/')[-1] }}</a>{% else %}<span class="no-links">N/A</span>{% endfor %}</div>
+                                        </div>
+                                    </div>
+                                    {% endfor %}
+                                </details>
+                                {% endfor %}
+                            </details>
+                            {% endfor %}
+                        {% else %}<p>No papers found for this subject.</p>{% endif %}
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+        </div>
+
+<div id="topical-view" class="main-content-view" {% if active_view != 'topical' %}style="display: none;"{% endif %}>
+    <header>
+       <h1>Topical Paper Generator</h1>
+       <p>Browse past paper questions sorted by topic for a selected subject.</p>
+    </header>
+
+    {% if topical_subjects %}
+    <div class="tab-container">
+        <div class="tab-nav">
+            {% for code, data in topical_subjects.items() %}
+                <button class="tab-link" onclick="openTopicalTab(event, '{{ code }}')">{{ data.subject_name }}</button>
+            {% endfor %}
+        </div>
+
+        {% for code, data in topical_subjects.items() %}
+        <div id="topical-{{ code }}" class="topical-tab-content">
+            {% for unit in data.units %}
+            <details class="year-group" open>
+                <summary>{{ unit.unit_number }}. {{ unit.unit_name }}</summary>
+                {% for subunit in unit.subunits %}
+                <details class="session-group" open>
+                    <summary>{{ subunit.subunit_number }} {{ subunit.subunit_name }}</summary>
+                    {% for paper in subunit.papers %}
+                    <div class="paper-group">
+                        <h4>{{ paper.paper_name }}</h4>
+                        <div class="links-container">
+                            <div class="link-column">
+                                <strong>Question Paper</strong>
+                                <!-- CHANGE 4: Simplified the topical paper links to be relative -->
+                                {% if paper.qp_link %}<a href="static/{{ paper.qp_link }}" target="_blank">{{ paper.qp_link.split('/')[-1] }}</a>{% else %}<span class="no-links">N/A</span>{% endif %}
+                            </div>
+                            <div class="link-column">
+                                <strong>Mark Scheme</strong>
+                                {% if paper.ms_link %}<a href="static/{{ paper.ms_link }}" target="_blank">{{ paper.ms_link.split('/')[-1] }}</a>{% else %}<span class="no-links">N/A</span>{% endif %}
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                    {% if not subunit.papers %}<div class="paper-group"><p class="no-links">No topical papers available for this subunit yet.</p></div>{% endif %}
+                </details>
+                {% endfor %}
+            </details>
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </div>
+    {% else %}
+    <p>No topical subjects have been defined in topics.json yet.</p>
+    {% endif %}
+</div>
+    </div>
+
+<script>
+    // This JavaScript does not need any changes.
+
+    function openTopicalTab(evt, subjectCode) {
+        let tabContents = document.getElementsByClassName("topical-tab-content");
+        for (let i = 0; i < tabContents.length; i++) {
+            tabContents[i].style.display = "none";
+        }
+        let topicalNav = document.querySelector('#topical-view .tab-nav');
+        let tabLinks = topicalNav.getElementsByClassName("tab-link");
+        for (let i = 0; i < tabLinks.length; i++) {
+            tabLinks[i].className = tabLinks[i].className.replace(" active", "");
+        }
+        document.getElementById("topical-" + subjectCode).style.display = "block";
+        evt.currentTarget.className += " active";
+    }
+
+    function openTab(evt, subjectCode) {
+        let resultsContainer = document.getElementById('results');
+        if (!resultsContainer) return;
+        let tabContents = resultsContainer.getElementsByClassName("tab-content");
+        for (let i = 0; i < tabContents.length; i++) {tabContents[i].style.display = "none";}
+        let tabLinks = resultsContainer.getElementsByClassName("tab-link");
+        for (let i = 0; i < tabLinks.length; i++) {tabLinks[i].className = tabLinks[i].className.replace(" active", "");}
+        document.getElementById(subjectCode).style.display = "block";
+        evt.currentTarget.className += " active";
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+        let firstYearlyTab = document.querySelector('#results .tab-link');
+        if (firstYearlyTab) {
+            firstYearlyTab.click();
+        }
+
+        let firstTopicalTab = document.querySelector('#topical-view .tab-link');
+        if (firstTopicalTab) {
+            firstTopicalTab.click();
+        }
+    });
+</script>
+</body>
+</html>

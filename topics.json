@@ -1,0 +1,1224 @@
+{
+  "9702": {
+    "subject_name": "Physics",
+    "units": [
+      {
+        "unit_number": "1",
+        "unit_name": "Physical quantities and units",
+        "subunits": [
+          {
+            "subunit_number": "1.1",
+            "subunit_name": "Physical quantities:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_1.1.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "1.2",
+            "subunit_name": "SI units:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_1.2.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "1.3",
+            "subunit_name": "Errors and uncertainties:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_1.3.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "1.4",
+            "subunit_name": "Scalars and vectors:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_1.4.pdf",
+                "ms_link": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unit_number": "2",
+        "unit_name": "Kinematics",
+        "subunits": [
+          {
+            "subunit_number": "2.1",
+            "subunit_name": "Equations of motion:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_2.1.pdf",
+                "ms_link": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unit_number": "3",
+        "unit_name": "Dynamics:",
+        "subunits": [
+          {
+            "subunit_number": "3.1",
+            "subunit_name": "Momentum and Newton's laws of motion:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_3.1.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "3.2",
+            "subunit_name": "Non-uniform motion:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_3.2.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "3.3",
+            "subunit_name": "Linear momentum and its conservation:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_3.3.pdf",
+                "ms_link": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unit_number": "4",
+        "unit_name": "Forces, density and pressure:",
+        "subunits": [
+          {
+            "subunit_number": "4.1",
+            "subunit_name": "Turning effects of forces:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_4.1.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "4.2",
+            "subunit_name": "Equilibrium of forces:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_4.2.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "4.3",
+            "subunit_name": "Density and pressure:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_4.3.pdf",
+                "ms_link": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unit_number": "5",
+        "unit_name": "Work, energy and power:",
+        "subunits": [
+          {
+            "subunit_number": "5.1",
+            "subunit_name": "Energy conservation:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_5.1.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "5.2",
+            "subunit_name": "Gravitational potential energy and kinetic energy:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_5.2.pdf",
+                "ms_link": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unit_number": "6",
+        "unit_name": "Deformation of solids:",
+        "subunits": [
+          {
+            "subunit_number": "6.1",
+            "subunit_name": "Stress and strain:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_6.1.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "6.2",
+            "subunit_name": "Elastic and plastic behaviour:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_6.2.pdf",
+                "ms_link": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unit_number": "7",
+        "unit_name": "Waves:",
+        "subunits": [
+          {
+            "subunit_number": "7.1",
+            "subunit_name": "Progressive waves:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_7.1.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "7.2",
+            "subunit_name": "Transverse and longitudinal waves:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_7.2.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "7.3",
+            "subunit_name": "Doppler effect for sound waves:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_7.3.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "7.4",
+            "subunit_name": "Electromagnetic spectrum:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_7.4.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "7.5",
+            "subunit_name": "Polarisation:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_7.5.pdf",
+                "ms_link": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unit_number": "8",
+        "unit_name": "Superposition:",
+        "subunits": [
+          {
+            "subunit_number": "8.1",
+            "subunit_name": "Stationary waves:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_8.1.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "8.2",
+            "subunit_name": "Diffraction:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_8.2.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "8.3",
+            "subunit_name": "Interference:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_8.3.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "8.4",
+            "subunit_name": "The diffraction grating:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_8.4.pdf",
+                "ms_link": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unit_number": "9",
+        "unit_name": "Electricity:",
+        "subunits": [
+          {
+            "subunit_number": "9.1",
+            "subunit_name": "Electric current:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_9.1.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "9.2",
+            "subunit_name": "Potential difference and power:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_9.2.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "9.3",
+            "subunit_name": "Resistance and resistivity:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_9.3.pdf",
+                "ms_link": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unit_number": "10",
+        "unit_name": "D.C. circuits:",
+        "subunits": [
+          {
+            "subunit_number": "10.1",
+            "subunit_name": "Practical circuits:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_10.1.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "10.2",
+            "subunit_name": "Kirchhoff's laws:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_10.2.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "10.3",
+            "subunit_name": "Potential dividers:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_10.3.pdf",
+                "ms_link": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unit_number": "11",
+        "unit_name": "Particle physics:",
+        "subunits": [
+          {
+            "subunit_number": "11.1",
+            "subunit_name": "Atoms, nuclei and radiation:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_11.1.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "11.2",
+            "subunit_name": "Fundamental particles:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9702/9702_Paper_1_subunit_11.2.pdf",
+                "ms_link": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "9709": {
+    "subject_name": "Mathematics",
+    "units": [
+      {
+        "unit_number": "1",
+        "unit_name": "Quadratics",
+        "subunits": [
+          {
+            "subunit_number": "1.1",
+            "subunit_name": "Completing the square",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_1.1.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "1.2",
+            "subunit_name": "The discriminant",
+            "papers": []
+          },
+          {
+            "subunit_number": "1.3",
+            "subunit_name": "Solving quadratic equations and inequalities",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_1.3.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "1.4",
+            "subunit_name": "Simultaneous equations",
+            "papers": []
+          },
+          {
+            "subunit_number": "1.5",
+            "subunit_name": "Equations reducible to quadratic form",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_1.5.pdf",
+                "ms_link": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unit_number": "2",
+        "unit_name": "Functions",
+        "subunits": [
+          {
+            "subunit_number": "2.1",
+            "subunit_name": "Function definition and notation",
+            "papers": []
+          },
+          {
+            "subunit_number": "2.2",
+            "subunit_name": "Composition of functions and range",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_2.2.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "2.3",
+            "subunit_name": "Inverse functions",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_2.3.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "2.4",
+            "subunit_name": "Graphs of functions and their inverses",
+            "papers": []
+          },
+          {
+            "subunit_number": "2.5",
+            "subunit_name": "Transformations of graphs",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_2.5.pdf",
+                "ms_link": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unit_number": "3",
+        "unit_name": "Coordinate geometry",
+        "subunits": [
+          {
+            "subunit_number": "3.1",
+            "subunit_name": "Equation of a straight line",
+            "papers": []
+          },
+          {
+            "subunit_number": "3.2",
+            "subunit_name": "Circles",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_3.2.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "3.3",
+            "subunit_name": "Intersection of lines and curves",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_3.3.pdf",
+                "ms_link": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unit_number": "4",
+        "unit_name": "Circular measure",
+        "subunits": [
+          {
+            "subunit_number": "4.1",
+            "subunit_name": "Radians and degrees",
+            "papers": []
+          },
+          {
+            "subunit_number": "4.2",
+            "subunit_name": "Arc length and sector area",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_4.2.pdf",
+                "ms_link": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unit_number": "5",
+        "unit_name": "Trigonometry",
+        "subunits": [
+          {
+            "subunit_number": "5.1",
+            "subunit_name": "Trigonometric graphs",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_5.1.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "5.2",
+            "subunit_name": "Exact values",
+            "papers": []
+          },
+          {
+            "subunit_number": "5.3",
+            "subunit_name": "Inverse trigonometric functions",
+            "papers": []
+          },
+          {
+            "subunit_number": "5.4",
+            "subunit_name": "Trigonometric identities",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_5.4.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "5.5",
+            "subunit_name": "Solving trigonometric equations",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_5.5.pdf",
+                "ms_link": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unit_number": "6",
+        "unit_name": "Series",
+        "subunits": [
+          {
+            "subunit_number": "6.1",
+            "subunit_name": "Binomial expansion",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_6.1.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "6.2",
+            "subunit_name": "Arithmetic and geometric progressions",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_6.2.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "6.3",
+            "subunit_name": "Series formulas",
+            "papers": []
+          },
+          {
+            "subunit_number": "6.4",
+            "subunit_name": "Sum to infinity of a geometric progression",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_6.4.pdf",
+                "ms_link": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unit_number": "7",
+        "unit_name": "Differentiation",
+        "subunits": [
+          {
+            "subunit_number": "7.1",
+            "subunit_name": "Gradient and differentiation",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_7.1.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "7.2",
+            "subunit_name": "Rules of differentiation",
+            "papers": []
+          },
+          {
+            "subunit_number": "7.3",
+            "subunit_name": "Applications of differentiation",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_7.3.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "7.4",
+            "subunit_name": "Stationary points",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_7.4.pdf",
+                "ms_link": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unit_number": "8",
+        "unit_name": "Integration",
+        "subunits": [
+          {
+            "subunit_number": "8.1",
+            "subunit_name": "Integration as the reverse of differentiation",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_8.1.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "8.2",
+            "subunit_name": "Constant of integration",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_8.2.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "8.3",
+            "subunit_name": "Definite integrals",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_8.3.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "8.4",
+            "subunit_name": "Applications of integration (Area and Volume)",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_8.4.pdf",
+                "ms_link": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unit_number": "4",
+        "unit_name": "Mechanics (for Paper 4)",
+        "subunits": [
+          {
+            "subunit_number": "4.1",
+            "subunit_name": "Forces and equilibrium:",
+            "papers": []
+          },
+          {
+            "subunit_number": "4.2",
+            "subunit_name": "Kinematics of motion in a straight line:",
+            "papers": [
+              {
+                "paper_name": "Paper 1",
+                "qp_link": "papers/9709/9709_Paper_1_subunit_4.2.pdf",
+                "ms_link": ""
+              }
+            ]
+          },
+          {
+            "subunit_number": "4.3",
+            "subunit_name": "Momentum:",
+            "papers": []
+          },
+          {
+            "subunit_number": "4.4",
+            "subunit_name": "Newton's laws of motion:",
+            "papers": []
+          },
+          {
+            "subunit_number": "4.5",
+            "subunit_name": "Energy, work and power:",
+            "papers": []
+          }
+        ]
+      }
+    ]
+  },
+  "9701": {
+    "subject_name": "Chemistry",
+    "units": [
+      {
+        "unit_number": "1",
+        "unit_name": "Atomic structure",
+        "subunits": [
+          {
+            "subunit_number": "1.1",
+            "subunit_name": "Particles in the atom and atomic radius",
+            "papers": []
+          },
+          {
+            "subunit_number": "1.2",
+            "subunit_name": "Isotopes",
+            "papers": []
+          },
+          {
+            "subunit_number": "1.3",
+            "subunit_name": "Electrons, energy levels and atomic orbitals",
+            "papers": []
+          },
+          {
+            "subunit_number": "1.4",
+            "subunit_name": "Ionisation energy",
+            "papers": []
+          }
+        ]
+      },
+      {
+        "unit_number": "2",
+        "unit_name": "Atoms, molecules and stoichiometry",
+        "subunits": [
+          {
+            "subunit_number": "2.1",
+            "subunit_name": "Relative masses of atoms and molecules",
+            "papers": []
+          },
+          {
+            "subunit_number": "2.2",
+            "subunit_name": "The mole and the Avogadro constant",
+            "papers": []
+          },
+          {
+            "subunit_number": "2.3",
+            "subunit_name": "Formulas",
+            "papers": []
+          },
+          {
+            "subunit_number": "2.4",
+            "subunit_name": "Reacting masses and volumes (solutions and gases)",
+            "papers": []
+          }
+        ]
+      },
+      {
+        "unit_number": "3",
+        "unit_name": "Chemical bonding",
+        "subunits": [
+          {
+            "subunit_number": "3.1",
+            "subunit_name": "Electronegativity and bonding",
+            "papers": []
+          },
+          {
+            "subunit_number": "3.2",
+            "subunit_name": "Ionic bonding",
+            "papers": []
+          },
+          {
+            "subunit_number": "3.3",
+            "subunit_name": "Metallic bonding",
+            "papers": []
+          },
+          {
+            "subunit_number": "3.4",
+            "subunit_name": "Covalent bonding and coordinate (dative covalent) bonding",
+            "papers": []
+          },
+          {
+            "subunit_number": "3.5",
+            "subunit_name": "Shapes of molecules",
+            "papers": []
+          },
+          {
+            "subunit_number": "3.6",
+            "subunit_name": "Intermolecular forces, electronegativity and bond properties",
+            "papers": []
+          },
+          {
+            "subunit_number": "3.7",
+            "subunit_name": "Dot-and-cross diagrams",
+            "papers": []
+          }
+        ]
+      },
+      {
+        "unit_number": "4",
+        "unit_name": "States of matter",
+        "subunits": [
+          {
+            "subunit_number": "4.1",
+            "subunit_name": "The gaseous state: ideal and real gases and pV = nRT",
+            "papers": []
+          },
+          {
+            "subunit_number": "4.2",
+            "subunit_name": "Bonding and structure",
+            "papers": []
+          }
+        ]
+      },
+      {
+        "unit_number": "5",
+        "unit_name": "Chemical energetics",
+        "subunits": [
+          {
+            "subunit_number": "5.1",
+            "subunit_name": "Enthalpy change, \u00ce\u201dH",
+            "papers": []
+          },
+          {
+            "subunit_number": "5.2",
+            "subunit_name": "Hess's law",
+            "papers": []
+          }
+        ]
+      },
+      {
+        "unit_number": "6",
+        "unit_name": "Electrochemistry",
+        "subunits": [
+          {
+            "subunit_number": "6.1",
+            "subunit_name": "Redox processes: electron transfer and changes in oxidation number (oxidation state)",
+            "papers": []
+          }
+        ]
+      },
+      {
+        "unit_number": "7",
+        "unit_name": "Equilibria",
+        "subunits": [
+          {
+            "subunit_number": "7.1",
+            "subunit_name": "Chemical equilibria: reversible reactions, dynamic equilibrium",
+            "papers": []
+          },
+          {
+            "subunit_number": "7.2",
+            "subunit_name": "Br\u00c3\u00b8nsted-Lowry theory of acids and bases",
+            "papers": []
+          }
+        ]
+      },
+      {
+        "unit_number": "8",
+        "unit_name": "Reaction kinetics",
+        "subunits": [
+          {
+            "subunit_number": "8.1",
+            "subunit_name": "Rate of reaction",
+            "papers": []
+          },
+          {
+            "subunit_number": "8.2",
+            "subunit_name": "Effect of temperature on reaction rates and the concept of activation energy",
+            "papers": []
+          },
+          {
+            "subunit_number": "8.3",
+            "subunit_name": "Homogeneous and heterogeneous catalysts",
+            "papers": []
+          }
+        ]
+      },
+      {
+        "unit_number": "9",
+        "unit_name": "Inorganic chemistry",
+        "subunits": [
+          {
+            "subunit_number": "9.1",
+            "subunit_name": "Periodicity of physical properties of the elements in Period 3",
+            "papers": []
+          },
+          {
+            "subunit_number": "9.2",
+            "subunit_name": "Periodicity of chemical properties of the elements in Period 3",
+            "papers": []
+          },
+          {
+            "subunit_number": "9.3",
+            "subunit_name": "Chemical periodicity of other elements",
+            "papers": []
+          }
+        ]
+      },
+      {
+        "unit_number": "10",
+        "unit_name": "Group 2",
+        "subunits": [
+          {
+            "subunit_number": "10.1",
+            "subunit_name": "Similarities and trends in the properties of the Group 2 metals, magnesium to barium, and their compounds",
+            "papers": []
+          }
+        ]
+      },
+      {
+        "unit_number": "11",
+        "unit_name": "Group 17",
+        "subunits": [
+          {
+            "subunit_number": "11.1",
+            "subunit_name": "Physical properties of the Group 17 elements",
+            "papers": []
+          },
+          {
+            "subunit_number": "11.2",
+            "subunit_name": "The chemical properties of the halogen elements and the hydrogen halides",
+            "papers": []
+          },
+          {
+            "subunit_number": "11.3",
+            "subunit_name": "Some reactions of the halide ions",
+            "papers": []
+          },
+          {
+            "subunit_number": "11.4",
+            "subunit_name": "The reactions of chlorine",
+            "papers": []
+          }
+        ]
+      },
+      {
+        "unit_number": "12",
+        "unit_name": "Nitrogen and sulfur",
+        "subunits": [
+          {
+            "subunit_number": "12.1",
+            "subunit_name": "Nitrogen and sulfur",
+            "papers": []
+          }
+        ]
+      },
+      {
+        "unit_number": "13",
+        "unit_name": "An introduction to AS Level organic chemistry",
+        "subunits": [
+          {
+            "subunit_number": "13.1",
+            "subunit_name": "Formulas, functional groups and the naming of organic compounds",
+            "papers": []
+          },
+          {
+            "subunit_number": "13.2",
+            "subunit_name": "Characteristic organic reactions",
+            "papers": []
+          },
+          {
+            "subunit_number": "13.3",
+            "subunit_name": "Shapes of organic molecules; \u00cf\u0192 and \u00cf\u20ac bonds",
+            "papers": []
+          },
+          {
+            "subunit_number": "13.4",
+            "subunit_name": "Isomerism: structural isomerism and stereoisomerism",
+            "papers": []
+          }
+        ]
+      },
+      {
+        "unit_number": "14",
+        "unit_name": "Hydrocarbons",
+        "subunits": [
+          {
+            "subunit_number": "14.1",
+            "subunit_name": "Alkanes",
+            "papers": []
+          },
+          {
+            "subunit_number": "14.2",
+            "subunit_name": "Alkenes",
+            "papers": []
+          }
+        ]
+      },
+      {
+        "unit_number": "15",
+        "unit_name": "Halogen compounds",
+        "subunits": [
+          {
+            "subunit_number": "15.1",
+            "subunit_name": "Halogenoalkanes",
+            "papers": []
+          }
+        ]
+      },
+      {
+        "unit_number": "16",
+        "unit_name": "Hydroxy compounds",
+        "subunits": [
+          {
+            "subunit_number": "16.1",
+            "subunit_name": "Alcohols",
+            "papers": []
+          }
+        ]
+      },
+      {
+        "unit_number": "17",
+        "unit_name": "Carbonyl compounds",
+        "subunits": [
+          {
+            "subunit_number": "17.1",
+            "subunit_name": "Aldehydes and ketones",
+            "papers": []
+          }
+        ]
+      },
+      {
+        "unit_number": "18",
+        "unit_name": "Carboxylic acids and derivatives",
+        "subunits": [
+          {
+            "subunit_number": "18.1",
+            "subunit_name": "Carboxylic acids",
+            "papers": []
+          },
+          {
+            "subunit_number": "18.2",
+            "subunit_name": "Esters",
+            "papers": []
+          },
+          {
+            "subunit_number": "18.3",
+            "subunit_name": "Acyl chlorides",
+            "papers": []
+          }
+        ]
+      },
+      {
+        "unit_number": "19",
+        "unit_name": "Nitrogen compounds",
+        "subunits": [
+          {
+            "subunit_number": "19.1",
+            "subunit_name": "Primary amines",
+            "papers": []
+          },
+          {
+            "subunit_number": "19.2",
+            "subunit_name": "Nitriles and hydroxynitriles",
+            "papers": []
+          }
+        ]
+      },
+      {
+        "unit_number": "20",
+        "unit_name": "Polymerisation",
+        "subunits": [
+          {
+            "subunit_number": "20.1",
+            "subunit_name": "Condensation polymerisation",
+            "papers": []
+          },
+          {
+            "subunit_number": "20.2",
+            "subunit_name": "Predicting the type of polymerisation",
+            "papers": []
+          },
+          {
+            "subunit_number": "20.3",
+            "subunit_name": "Degradable polymers",
+            "papers": []
+          }
+        ]
+      },
+      {
+        "unit_number": "21",
+        "unit_name": "Organic synthesis",
+        "subunits": [
+          {
+            "subunit_number": "21.1",
+            "subunit_name": "Organic synthesis",
+            "papers": []
+          }
+        ]
+      },
+      {
+        "unit_number": "22",
+        "unit_name": "Analytical techniques",
+        "subunits": [
+          {
+            "subunit_number": "22.1",
+            "subunit_name": "Thin-layer chromatography",
+            "papers": []
+          },
+          {
+            "subunit_number": "22.2",
+            "subunit_name": "Gas/liquid chromatography",
+            "papers": []
+          },
+          {
+            "subunit_number": "22.3",
+            "subunit_name": "Carbon-13 NMR spectroscopy",
+            "papers": []
+          },
+          {
+            "subunit_number": "22.4",
+            "subunit_name": "Proton (\u00c2\u00b9H) NMR spectroscopy",
+            "papers": []
+          }
+        ]
+      }
+    ]
+  }
+}

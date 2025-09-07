@@ -1,0 +1,32 @@
+{
+  "9701": {
+    "name": "Chemistry",
+    "papers": {
+      "1": "Multiple Choice (MCQ)",
+      "2": "Structured Questions",
+      "3": "Advanced Practical Skills"
+    }
+  },
+  "9702": {
+    "name": "Physics",
+    "papers": {
+      "1": "Multiple Choice (MCQ)",
+      "2": "Structured Questions",
+      "3": "Advanced Practical Skills"
+    }
+  },
+  "9709": {
+    "name": "Mathematics",
+    "papers": {
+      "1": "Pure Mathematics 1",
+      "4": "Mechanics"
+    }
+  },"9700": {
+    "name": "Biology",
+    "papers": {
+      "1": "Multiple Choice (MCQ)",
+      "2": "Structured Questions",
+      "3": "Advanced Practical Skills"
+    }
+  }
+}
